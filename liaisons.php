@@ -12,5 +12,43 @@
 		"Ile de Groix:21:7.7:Lorient:Port-Tudy" ,
 		"Ile de Groix:22:7.4:Port-Tudy:Lorient"
 	) ;
+	
+	
+	// Exercice 1
+	
+	echo "\n\nCodes des liaisons :\n\n" ;
+	// Votre code ici
+	
+	
+	
+	// Exercice 2
+	
+	echo "\n\nCodes des liaisons du secteur d'Houat :\n\n" ;
+	// Votre code ici
+	
+	
+	
+	// Exercice 3
+	
+	echo "\n\nListe des liaisons qui desservent le port de Quiberon :\n\n" ;
+	// Votre code ici
+	
+	
+	
+	// Exercice 4
+	
+	echo "\n\Liste des ports :\n\n" ;
+	// Votre code ici
+	
+	
+	
+	// Exercice 5
+	
+	echo "\n\Noms des ports en lettres majuscules :\n\n" ;
+	// Votre code ici
+	
+	
+	
+	
 
 ?>
